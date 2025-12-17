@@ -1,6 +1,6 @@
 <?php
 
-	/**
+/**
  * Project:     Takhreej: Simple PHP Open Source Web Addresses (URLs) Manager
  * File:        index.php
  *
