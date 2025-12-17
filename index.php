@@ -1,15 +1,16 @@
 <?php
 
- /**
+	/**
  * Project:     Takhreej: Simple PHP Open Source Web Addresses (URLs) Manager
  * File:        index.php
  *
  * Copyright (c) 2014, Mohammad Anini
- * The project is licensed under Waqf Public License 2.0 <http://ojuba.org/wiki/waqf-2.0/>
+ * The project is licensed under:
+ *    Creative Commons BY-SA 4.0 License <https://creativecommons.org/licenses/by-sa/4.0/>
  *
- * @link http://takhreej.anini.me/
+ * @link https://takhreej.anini.me/
  * @copyright 2014 Anini
- * @author Mohammad Anini <mohd.anini@gmail.com>
+ * @author Mohammad Anini <https://anini.me/>
  * @version 1.0.0 (Feb 3, 2014)
  * @package Takhreej
  */
