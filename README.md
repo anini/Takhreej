@@ -1,5 +1,6 @@
-##Takhreej | تَخريْج
+# Takhreej | تَخريْج
 
-A Very Simple PHP Open Source Web Addresses (URLs) Manager
+### > Simple PHP Open Source Web Addresses (URLs) Manager
+### > مديـر عناوين ويب (URLs) بسيـط مفتوح المصـدر بلـغة PHP
 
-http://takhreej.anini.me/
+https://takhreej.anini.me/
