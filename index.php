@@ -54,8 +54,8 @@ if (!empty($_SERVER['REQUEST_URI']))
     // otherwise just remove or comment out the following switch satement.
     switch ($file_name) {
         case 'banana':
-            $title = 'I love banana!';
-            $description = 'I love banana!';
+            $title = 'I love bananas!';
+            $description = 'I love bananas!';
             break;
         default:
             // Used for the home page
